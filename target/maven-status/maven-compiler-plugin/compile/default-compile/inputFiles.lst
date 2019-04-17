@@ -1,0 +1,16 @@
+C:\Thesis\Common_Access_Platform\src\main\java\nativeQuery\builder\CassandraDb.java
+C:\Thesis\Common_Access_Platform\src\main\java\controller\GetResultController.java
+C:\Thesis\Common_Access_Platform\src\main\java\model\TableColumns.java
+C:\Thesis\Common_Access_Platform\src\main\java\query\parser\ParseRelation.java
+C:\Thesis\Common_Access_Platform\src\main\java\query\parser\gettablecolumns.java
+C:\Thesis\Common_Access_Platform\src\main\java\nativeQuery\builder\MysqlDb.java
+C:\Thesis\Common_Access_Platform\src\main\java\query\parser\columnsInResultColumn.java
+C:\Thesis\Common_Access_Platform\src\main\java\controller\DatabaseType.java
+C:\Thesis\Common_Access_Platform\src\main\java\nativeQuery\builder\MongoDBQb.java
+C:\Thesis\Common_Access_Platform\src\main\java\model\AttributeValues.java
+C:\Thesis\Common_Access_Platform\src\main\java\query\parser\getcrud.java
+C:\Thesis\Common_Access_Platform\src\main\java\query\parser\getResultColumn.java
+C:\Thesis\Common_Access_Platform\src\main\java\query\parser\columnInClause.java
+C:\Thesis\Common_Access_Platform\src\main\java\nativeQuery\builder\Neo4jQb.java
+C:\Thesis\Common_Access_Platform\src\main\java\model\Results.java
+C:\Thesis\Common_Access_Platform\src\main\java\nativeQuery\builder\QueryTranslator.java
